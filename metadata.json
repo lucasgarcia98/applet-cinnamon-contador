@@ -1,0 +1,9 @@
+{
+  "uuid": "garcia-contador@cinnamon.org",
+  "name": "Contador de clientes",
+  "description": "Mostra a quantidade de clientes ativos no Windel Web",
+  "author": "Lucas Garcia",
+  "icon": "icon.png",
+  "url": "https://webservice.windel.com.br/clientesWindelWeb",
+  "dependencies": ["cinnamon"]
+}
